@@ -1,0 +1,10 @@
+# Конфигурация проектов GitLab для создания релизов
+# Формат: namespace/project (один проект на строку)
+# Строки начинающиеся с # игнорируются
+
+# Примеры:
+# username/my-project
+# mycompany/backend-api
+# mygroup/subgroup/frontend-app
+
+# Добавьте ваши проекты ниже:
